@@ -5,6 +5,3 @@
 [submodule "ReVAMP"]
 	path = ReVAMP
 	url = https://github.com/edwbaker/revamp
-[submodule "sonicscrewdriver"]
-	path = sonicscrewdriver
-	url = https://github.com/edwbaker/sonicscrewdriver
